@@ -1,5 +1,5 @@
 ## Projeto Utilizando ADC 10
-O Objetivo deste projeto foi comprovar o conhecimento de ADC 10, utilizando o **MSP430G2553**
+O Objetivo deste projeto foi comprovar o conhecimento de ADC 10, utilizando o **MSP430G2553** e o **STM32F103C8T6**
 
 ### [Projeto LDR - MSP430](https://github.com/MacriFabiane/Microcontroladores/blob/main/Pratica3_LDR/MSP430_version/main.c)
 ![Pratica3-LDR-MSP430](https://github.com/user-attachments/assets/f3aef9be-3a70-41ea-b767-2ec9b3042b20)
